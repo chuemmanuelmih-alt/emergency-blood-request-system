@@ -62,19 +62,19 @@
     // }else{
     //     echo ('senior'. '<br>');
     // }
-// $temp=3;
-// echo('temperature:'. $temp. '<br>');
-// if($temp>= 30){
-//     echo('hot');
-// }else if($temp>= 20){
-//     echo('warm');
-//     }else if($temp>= 20){
-//         echo('warm');
-//     }else if($temp>= 10){
-//         echo('cool');
-//     } else{
-//         echo('cold');
-//     }
+$temp=3;
+echo('temperature:'. $temp. '<br>');
+if($temp>= 30){
+    echo('hot');
+}else if($temp>= 20){
+    echo('warm');
+    }else if($temp>= 20){
+        echo('warm');
+    }else if($temp>= 10){
+        echo('cool');
+    } else{
+        echo('cold');
+    }g
 
 
     $num1=45;
